@@ -1,2 +1,2 @@
 # softsquared_education
-소프트스퀘어드 교육생 DEMO
+소프트스퀘어드 교육생 DEMO - Edited by jiwon
